@@ -1,0 +1,59 @@
+{
+    "items": [
+      {
+        "code": "TERM1",
+        "title": "Cardiology",
+        "description": "Terminology for cardiology related terms and definitions.",
+        "data": {
+          "_terminology": {
+            "isRoot": true,
+            "refsets": [
+              "default"
+            ]
+          },
+          "MedicalArea": {
+            "Code": "CARDIO",
+            "Order": "1"
+          },
+          "_links": []
+        }
+      },
+      {
+        "code": "TERM2",
+        "title": "Neurology",
+        "description": "Terminology for neurology related terms and definitions.",
+        "data": {
+          "_terminology": {
+            "isRoot": true,
+            "refsets": [
+              "default"
+            ]
+          },
+          "MedicalArea": {
+            "Code": "NEURO",
+            "Order": "2"
+          },
+          "_links": []
+        }
+      },
+      {
+        "code": "TERM3",
+        "title": "Orthopedics",
+        "description": "Terminology for orthopedics related terms and definitions.",
+        "data": {
+          "_terminology": {
+            "isRoot": true,
+            "refsets": [
+              "default"
+            ]
+          },
+          "MedicalArea": {
+            "Code": "ORTHO",
+            "Order": "3"
+          },
+          "_links": []
+        }
+      }
+    ]
+  }
+  
